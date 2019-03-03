@@ -1,0 +1,7 @@
+-add death by hitting yourself
+-add high score via txt
+-add snake animation in into page
+-add colors
+-add difficulty level
+-fix trail to grow when first hitting food
+-when die, go back to homescreen via button
