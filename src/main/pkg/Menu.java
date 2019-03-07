@@ -125,6 +125,7 @@ public class Menu extends MouseAdapter {
 			g.drawString("4. Beat the current highscore, and have fun", 25, 325);
 			g.drawRect(265, 385, 98, 50);
 			g.drawString("Back", 283, 420);
+			// close your eyes
 		}
 		
 		else if(game.gameState == STATE.GAMEOVER) {
